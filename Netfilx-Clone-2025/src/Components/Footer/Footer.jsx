@@ -1,7 +1,7 @@
 import React from "react";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import YouTubeIcon from "@mui/icons-material/YouTube";
-import "./footer.css";
+import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer_outer_container">
@@ -46,7 +46,7 @@ const Footer = () => {
           <li>Contact Use</li>
         </ul>
       </div>
-      <div className="service_code">{/* <P> Service Code </P> */}</div>
+      <div className="service_code">{/* <P>Service Code</P> */}</div>
       <div className="copy write"> &copy;1997-2024Netflix,Inc</div>
     </div>
   );
