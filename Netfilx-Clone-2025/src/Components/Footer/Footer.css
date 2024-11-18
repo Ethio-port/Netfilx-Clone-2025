@@ -1,11 +1,11 @@
-.footer_outer {
+.footer_outer_container {
   color: grey;
   background-color: #111;
   display: flex;
   justify-content: center;
 }
 
-.footer_inner {
+.footer_inner_container {
   width: 60%;
 }
 
