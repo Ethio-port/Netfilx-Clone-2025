@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [react()],
   base: "netfilx-clone-2025",
   outDit:'build'
+  
 });
