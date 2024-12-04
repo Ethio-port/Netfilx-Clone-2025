@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "netfilx-clone-2025",
-  outDit:'build'
+  base: "/Netfilx-Clone-2025/",
+  
   
 });
